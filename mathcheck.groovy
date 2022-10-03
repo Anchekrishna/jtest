@@ -19,3 +19,4 @@ pipeline {
             {archiveArtifacts artifacts: 'output.txt', followSymlinks: false}
         }
 }
+}
